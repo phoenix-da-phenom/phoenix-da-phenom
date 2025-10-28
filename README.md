@@ -1,5 +1,5 @@
 -<h1> 👋 Hi, I’m Mark</h1>
-- 💻 Software Engineer | 💻 Software Engineer |⚡ Blockchain Enthusiast | 📊 Trader & Builder 
+- 💻 Software Engineer | 💻 Fullstack developer |⚡ Blockchain Enthusiast | 📊 Trader & Builder 
 -  Fullstack Developer specializing in MERN, PERN, Django, and Blockchain. Passionate about building scalable backend systems, financial platforms, and AI-powered trading solutions.
 - 🌱Currently working with NestJS, Next.js, and Blockchain (Solidity/ethers.js)
 - 📫 How to reach me , send me a mail ehinormichael@ymail.com | <a href="https://www.linkedin.com/in/mark-ehizibue-047603a3/">LinkedIn</a>
